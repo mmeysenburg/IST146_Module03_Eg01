@@ -1,4 +1,4 @@
-# IST146_Module03_Eg02
+# IST146_Module03_Eg01
 
 This repository contains the code for the Doane University IST 146 Module 03 family cell bills example.
 
